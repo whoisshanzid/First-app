@@ -36,8 +36,8 @@ Move the First-app folder to the htdocs directory if using XAMPP (or the appropr
 
 Open your browser and go to http://localhost/First-app/index.php.
 
-Dependencies
+## Dependencies
 This project doesn't require any external libraries or dependencies.
 
-Usage
+## Usage
 Once the application is running, you can interact with the web page by opening index.php in your browser.
