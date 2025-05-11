@@ -28,11 +28,11 @@ Download and install XAMPP.
 
 Start the Apache server from the XAMPP Control Panel.
 
-Move the Project Files:
+3. Move the Project Files:
 
 Move the First-app folder to the htdocs directory if using XAMPP (or the appropriate directory for your web server).
 
-Access the Application:
+4. Access the Application:
 
 Open your browser and go to http://localhost/First-app/index.php.
 
